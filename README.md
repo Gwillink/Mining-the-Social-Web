@@ -1,3 +1,7 @@
+#EDITED AJM
+In addition to the material provided by the P.K. Janert described below (found in the 'text' dir), I have added the material in the ipynbs dir.
+That material is a series of ipython notebook files that mostly follows the examples provided in the text.
+
 # Overview
 
 This respository contains the latest definitive bug fixed source code for examples from [Mining the Social Web](http://amzn.to/d1Ci8A). This code is available for you to hack on, fork, and discuss regardless of whether or not you have any interest in the book. Feel free to do whatever you'd like with it. However, it is almost definitely the case that if you find this code even mildly interesting, you'll really benefit from picking up a *non-pirated* copy of the book. As of late January 2011, the first edition of the book is complete. The [eBook is already available for purchase](http://oreil.ly/clJYaY), and [Amazon has it in stock](http://amzn.to/d1Ci8A); new copies are reasonably priced at just under $25 USD. 
