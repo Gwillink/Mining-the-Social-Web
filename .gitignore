@@ -1,3 +1,5 @@
 .gitignore
 python_code/out
 *.pyc
+*.DS_Store
+ipynbs/output
