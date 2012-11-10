@@ -1,5 +1,5 @@
 #EDITED AJM
-In addition to the material provided by the P.K. Janert described below (found in the 'text' dir), I have added the material in the ipynbs dir.
+In addition to the material provided by the M. A. Russel described below (found in the 'text' dir), I have added the material in the ipynbs dir.
 That material is a series of ipython notebook files that mostly follows the examples provided in the text.
 
 # Overview
